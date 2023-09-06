@@ -1,4 +1,4 @@
-# Challenge01_Stage04
+# Challenge02_Stage04
 
 Challenge 02 JavaScript
 
