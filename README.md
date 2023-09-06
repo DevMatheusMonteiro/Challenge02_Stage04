@@ -6,7 +6,7 @@ Challenge 02 JavaScript
 
 - Data structure with objects;
 - Structure of reproduction;
-- Job creation;
+- Creating functions;
 - Comparative operators;
 
 
